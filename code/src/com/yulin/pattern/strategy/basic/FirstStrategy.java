@@ -1,3 +1,4 @@
+package com.yulin.pattern.strategy.basic;
 
 public class FirstStrategy implements StrategyInterface {
 	
