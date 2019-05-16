@@ -1,3 +1,4 @@
+package com.yulin.pattern.strategy.factory;
 
 public class Mall {
 
