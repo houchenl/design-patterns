@@ -1,4 +1,4 @@
-package com.yulin.pattern.decorative;
+package com.yulin.pattern.decorative.basic;
 
 public abstract class Component {
 
